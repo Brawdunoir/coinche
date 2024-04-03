@@ -1,6 +1,6 @@
 # Tournoi coinche
 
-Le jeu de coinche se joue avec un jeu de carte de 32 cartes. Le jeu compte un total de 162 points (en comptant les dix de der).
+Le jeu de coinche se joue avec un jeu de 32 cartes. Le jeu compte un total de 162 points (en comptant les dix de der).
 
 Les parties vont en **750 points**, ou **45 minutes**.  
 En cas d'égalité sur le nombre de victoire, le goal average (ou quotient de but en bon Français) sera utilisé.  
@@ -57,7 +57,7 @@ Un joueur peut décider d'annuler les enchères si la première carte n'est pas 
 
 La belote (avoir le roi et la dame dans son jeu de la couleur annoncée) est valide à condition d'avoir été annoncée (en disant « belote » puis « rebelote » lorsqu'on pose l'une puis l'autre des cartes).
 
-- Pour l'attaquant, elle sert à atteindre son contrat, **mais ne rajoute pas de points au score**.
+- Pour l'attaquant, elle sert à atteindre son contrat (bonus de 20 points), **mais ne rajoute pas de points au score**, que le contrat soit remporté ou perdu.
 - Pour le défenseur, elle est quasiment toujours inutile.
 
 En tout atout, **seule la première belote annoncée est considéré valide**.
@@ -75,4 +75,4 @@ La sous coupe est **obligatoire**.
 
 ## Ajustements
 
-Tous les ajustements sont possibles à une table si les participants sont d'accord **sauf pour le comptage les scores**.
+Tous les ajustements sont possibles à une table si les participants sont d'accord **sauf pour le comptage des scores**.
